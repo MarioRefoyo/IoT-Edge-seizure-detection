@@ -1,0 +1,525 @@
+-------------------------- Patient chb01 ------------------------------------
+{'clf__C': 10, 'clf__gamma': 0.001, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       176
+           1       1.00      1.00      1.00      5757
+           2       0.99      0.99      0.99       842
+
+    accuracy                           1.00      6775
+   macro avg       0.99      0.99      0.99      6775
+weighted avg       1.00      1.00      1.00      6775
+
+              precision    recall  f1-score   support
+
+           0       0.98      0.95      0.97        44
+           1       1.00      1.00      1.00      1439
+           2       0.99      1.00      0.99       210
+
+    accuracy                           1.00      1693
+   macro avg       0.99      0.98      0.99      1693
+weighted avg       1.00      1.00      1.00      1693
+
+---------------------- Finished report for patient chb01 -----------------------
+
+
+-------------------------- Patient chb02 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.0001, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.94      0.92      0.93        36
+           1       1.00      1.00      1.00      2879
+           2       0.98      0.99      0.99       173
+
+    accuracy                           1.00      3088
+   macro avg       0.98      0.97      0.97      3088
+weighted avg       1.00      1.00      1.00      3088
+
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95         9
+           1       1.00      1.00      1.00       719
+           2       1.00      0.98      0.99        43
+
+    accuracy                           1.00       771
+   macro avg       0.97      0.99      0.98       771
+weighted avg       1.00      1.00      1.00       771
+
+---------------------- Finished report for patient chb02 -----------------------
+
+
+-------------------------- Patient chb03 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.1, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       161
+           1       1.00      1.00      1.00      5757
+           2       1.00      1.00      1.00       840
+
+    accuracy                           1.00      6758
+   macro avg       1.00      1.00      1.00      6758
+weighted avg       1.00      1.00      1.00      6758
+
+              precision    recall  f1-score   support
+
+           0       0.88      0.90      0.89        40
+           1       0.99      0.99      0.99      1439
+           2       0.96      0.95      0.95       210
+
+    accuracy                           0.99      1689
+   macro avg       0.94      0.95      0.95      1689
+weighted avg       0.99      0.99      0.99      1689
+
+---------------------- Finished report for patient chb03 -----------------------
+
+
+-------------------------- Patient chb04 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.01, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.98      0.90      0.94       152
+           1       1.00      1.00      1.00     13846
+           2       0.97      0.99      0.98       479
+
+    accuracy                           1.00     14477
+   macro avg       0.98      0.97      0.97     14477
+weighted avg       1.00      1.00      1.00     14477
+
+              precision    recall  f1-score   support
+
+           0       0.78      0.95      0.86        38
+           1       1.00      1.00      1.00      3461
+           2       0.98      0.96      0.97       119
+
+    accuracy                           1.00      3618
+   macro avg       0.92      0.97      0.94      3618
+weighted avg       1.00      1.00      1.00      3618
+
+---------------------- Finished report for patient chb04 -----------------------
+
+
+-------------------------- Patient chb05 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.001, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.98      0.92      0.95       224
+           1       1.00      1.00      1.00      5757
+           2       0.97      0.99      0.98       600
+
+    accuracy                           1.00      6581
+   macro avg       0.98      0.97      0.98      6581
+weighted avg       1.00      1.00      1.00      6581
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.91      0.93        55
+           1       1.00      1.00      1.00      1439
+           2       0.97      0.99      0.98       150
+
+    accuracy                           1.00      1644
+   macro avg       0.98      0.97      0.97      1644
+weighted avg       1.00      1.00      1.00      1644
+
+---------------------- Finished report for patient chb05 -----------------------
+
+
+-------------------------- Patient chb07 ------------------------------------
+{'clf__C': 100, 'clf__gamma': 0.01, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       131
+           1       1.00      1.00      1.00     16342
+           2       0.99      1.00      0.99       360
+
+    accuracy                           1.00     16833
+   macro avg       0.99      0.99      0.99     16833
+weighted avg       1.00      1.00      1.00     16833
+
+              precision    recall  f1-score   support
+
+           0       0.89      0.97      0.93        32
+           1       1.00      1.00      1.00      4085
+           2       0.98      0.99      0.98        89
+
+    accuracy                           1.00      4206
+   macro avg       0.95      0.99      0.97      4206
+weighted avg       1.00      1.00      1.00      4206
+
+---------------------- Finished report for patient chb07 -----------------------
+
+
+-------------------------- Patient chb08 ------------------------------------
+{'clf__C': 100, 'clf__gamma': 0.01, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.96      0.88      0.92       368
+           1       1.00      1.00      1.00      5765
+           2       0.93      0.98      0.95       600
+
+    accuracy                           0.99      6733
+   macro avg       0.96      0.95      0.96      6733
+weighted avg       0.99      0.99      0.99      6733
+
+              precision    recall  f1-score   support
+
+           0       0.89      0.85      0.87        92
+           1       1.00      1.00      1.00      1441
+           2       0.91      0.93      0.92       149
+
+    accuracy                           0.99      1682
+   macro avg       0.93      0.93      0.93      1682
+weighted avg       0.99      0.99      0.99      1682
+
+---------------------- Finished report for patient chb08 -----------------------
+
+
+-------------------------- Patient chb09 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.001, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99       111
+           1       1.00      1.00      1.00     11582
+           2       1.00      1.00      1.00       480
+
+    accuracy                           1.00     12173
+   macro avg       1.00      0.99      1.00     12173
+weighted avg       1.00      1.00      1.00     12173
+
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        27
+           1       1.00      1.00      1.00      2895
+           2       1.00      0.99      1.00       120
+
+    accuracy                           1.00      3042
+   macro avg       1.00      1.00      1.00      3042
+weighted avg       1.00      1.00      1.00      3042
+
+---------------------- Finished report for patient chb09 -----------------------
+
+
+-------------------------- Patient chb10 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.1, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       180
+           1       0.99      1.00      1.00     11517
+           2       0.99      0.91      0.95       840
+
+    accuracy                           0.99     12537
+   macro avg       0.99      0.97      0.98     12537
+weighted avg       0.99      0.99      0.99     12537
+
+              precision    recall  f1-score   support
+
+           0       0.88      0.98      0.92        44
+           1       0.98      0.99      0.99      2879
+           2       0.90      0.76      0.83       209
+
+    accuracy                           0.98      3132
+   macro avg       0.92      0.91      0.91      3132
+weighted avg       0.98      0.98      0.98      3132
+
+---------------------- Finished report for patient chb10 -----------------------
+
+
+-------------------------- Patient chb11 ------------------------------------
+{'clf__C': 100, 'clf__gamma': 0.001, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       323
+           1       1.00      1.00      1.00      4318
+           2       0.98      0.99      0.99       360
+
+    accuracy                           1.00      5001
+   macro avg       0.99      0.99      0.99      5001
+weighted avg       1.00      1.00      1.00      5001
+
+              precision    recall  f1-score   support
+
+           0       0.99      0.95      0.97        80
+           1       1.00      1.00      1.00      1079
+           2       0.96      0.99      0.97        89
+
+    accuracy                           1.00      1248
+   macro avg       0.98      0.98      0.98      1248
+weighted avg       1.00      1.00      1.00      1248
+
+---------------------- Finished report for patient chb11 -----------------------
+
+
+-------------------------- Patient chb13 ------------------------------------
+{'clf__C': 100, 'clf__gamma': 0.1, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.99      0.92      0.95       216
+           1       0.99      1.00      1.00      5757
+           2       0.98      0.97      0.97      1375
+
+    accuracy                           0.99      7348
+   macro avg       0.99      0.96      0.97      7348
+weighted avg       0.99      0.99      0.99      7348
+
+              precision    recall  f1-score   support
+
+           0       0.83      0.75      0.79        53
+           1       0.98      1.00      0.99      1439
+           2       0.96      0.93      0.94       343
+
+    accuracy                           0.98      1835
+   macro avg       0.93      0.89      0.91      1835
+weighted avg       0.98      0.98      0.98      1835
+
+---------------------- Finished report for patient chb13 -----------------------
+
+
+-------------------------- Patient chb14 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.0001, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.97      0.47      0.63        68
+           1       1.00      1.00      1.00      5757
+           2       0.96      1.00      0.98       960
+
+    accuracy                           0.99      6785
+   macro avg       0.98      0.82      0.87      6785
+weighted avg       0.99      0.99      0.99      6785
+
+              precision    recall  f1-score   support
+
+           0       0.82      0.53      0.64        17
+           1       1.00      1.00      1.00      1439
+           2       0.97      0.99      0.98       239
+
+    accuracy                           0.99      1695
+   macro avg       0.93      0.84      0.87      1695
+weighted avg       0.99      0.99      0.99      1695
+
+---------------------- Finished report for patient chb14 -----------------------
+
+
+-------------------------- Patient chb15 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.1, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.95      0.87      0.91       798
+           1       0.98      1.00      0.99      5757
+           2       0.96      0.93      0.94      2372
+
+    accuracy                           0.97      8927
+   macro avg       0.96      0.93      0.95      8927
+weighted avg       0.97      0.97      0.97      8927
+
+              precision    recall  f1-score   support
+
+           0       0.61      0.57      0.59       199
+           1       0.96      0.97      0.96      1439
+           2       0.83      0.82      0.83       593
+
+    accuracy                           0.89      2231
+   macro avg       0.80      0.79      0.79      2231
+weighted avg       0.89      0.89      0.89      2231
+
+---------------------- Finished report for patient chb15 -----------------------
+
+
+-------------------------- Patient chb16 ------------------------------------
+{'clf__C': 100, 'clf__gamma': 0.1, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       1.00      0.94      0.97        34
+           1       0.98      1.00      0.99      5757
+           2       1.00      0.92      0.96      1171
+
+    accuracy                           0.99      6962
+   macro avg       0.99      0.95      0.97      6962
+weighted avg       0.99      0.99      0.99      6962
+
+              precision    recall  f1-score   support
+
+           0       0.43      0.38      0.40         8
+           1       0.95      0.97      0.96      1439
+           2       0.85      0.75      0.80       292
+
+    accuracy                           0.93      1739
+   macro avg       0.74      0.70      0.72      1739
+weighted avg       0.93      0.93      0.93      1739
+
+---------------------- Finished report for patient chb16 -----------------------
+
+
+-------------------------- Patient chb17 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.01, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.97      0.82      0.89       117
+           1       1.00      1.00      1.00      4318
+           2       0.94      0.99      0.97       361
+
+    accuracy                           0.99      4796
+   macro avg       0.97      0.94      0.95      4796
+weighted avg       1.00      0.99      0.99      4796
+
+              precision    recall  f1-score   support
+
+           0       0.88      0.76      0.81        29
+           1       1.00      1.00      1.00      1079
+           2       0.93      0.97      0.95        90
+
+    accuracy                           0.99      1198
+   macro avg       0.94      0.91      0.92      1198
+weighted avg       0.99      0.99      0.99      1198
+
+---------------------- Finished report for patient chb17 -----------------------
+
+
+-------------------------- Patient chb18 ------------------------------------
+{'clf__C': 100, 'clf__gamma': 0.1, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       1.00      0.95      0.98       128
+           1       1.00      1.00      1.00      5757
+           2       0.99      1.00      1.00       720
+
+    accuracy                           1.00      6605
+   macro avg       1.00      0.98      0.99      6605
+weighted avg       1.00      1.00      1.00      6605
+
+              precision    recall  f1-score   support
+
+           0       0.91      0.65      0.75        31
+           1       0.99      1.00      0.99      1439
+           2       0.95      0.94      0.95       179
+
+    accuracy                           0.99      1649
+   macro avg       0.95      0.86      0.90      1649
+weighted avg       0.99      0.99      0.99      1649
+
+---------------------- Finished report for patient chb18 -----------------------
+
+
+-------------------------- Patient chb19 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.001, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.99      0.89      0.94        95
+           1       1.00      1.00      1.00      4318
+           2       0.97      1.00      0.98       360
+
+    accuracy                           1.00      4773
+   macro avg       0.99      0.96      0.97      4773
+weighted avg       1.00      1.00      1.00      4773
+
+              precision    recall  f1-score   support
+
+           0       1.00      0.96      0.98        23
+           1       1.00      1.00      1.00      1079
+           2       0.99      1.00      0.99        89
+
+    accuracy                           1.00      1191
+   macro avg       1.00      0.99      0.99      1191
+weighted avg       1.00      1.00      1.00      1191
+
+---------------------- Finished report for patient chb19 -----------------------
+
+
+-------------------------- Patient chb20 ------------------------------------
+{'clf__C': 100, 'clf__gamma': 0.1, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       119
+           1       1.00      1.00      1.00      5757
+           2       1.00      1.00      1.00       876
+
+    accuracy                           1.00      6752
+   macro avg       1.00      0.99      0.99      6752
+weighted avg       1.00      1.00      1.00      6752
+
+              precision    recall  f1-score   support
+
+           0       0.82      0.97      0.89        29
+           1       1.00      1.00      1.00      1439
+           2       1.00      0.97      0.98       219
+
+    accuracy                           1.00      1687
+   macro avg       0.94      0.98      0.96      1687
+weighted avg       1.00      1.00      1.00      1687
+
+---------------------- Finished report for patient chb20 -----------------------
+
+
+-------------------------- Patient chb21 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.001, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.93        80
+           1       1.00      1.00      1.00      5757
+           2       0.99      0.99      0.99       481
+
+    accuracy                           1.00      6318
+   macro avg       0.97      0.97      0.97      6318
+weighted avg       1.00      1.00      1.00      6318
+
+              precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89        19
+           1       1.00      1.00      1.00      1439
+           2       0.98      0.98      0.98       120
+
+    accuracy                           1.00      1578
+   macro avg       0.96      0.96      0.96      1578
+weighted avg       1.00      1.00      1.00      1578
+
+---------------------- Finished report for patient chb21 -----------------------
+
+
+-------------------------- Patient chb22 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.0001, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       1.00      0.95      0.97        82
+           1       1.00      1.00      1.00      4318
+           2       0.99      1.00      0.99       360
+
+    accuracy                           1.00      4760
+   macro avg       1.00      0.98      0.99      4760
+weighted avg       1.00      1.00      1.00      4760
+
+              precision    recall  f1-score   support
+
+           0       1.00      0.95      0.97        20
+           1       1.00      1.00      1.00      1079
+           2       0.99      1.00      0.99        90
+
+    accuracy                           1.00      1189
+   macro avg       1.00      0.98      0.99      1189
+weighted avg       1.00      1.00      1.00      1189
+
+---------------------- Finished report for patient chb22 -----------------------
+
+
+-------------------------- Patient chb23 ------------------------------------
+{'clf__C': 1000, 'clf__gamma': 0.001, 'clf__kernel': 'rbf'}
+              precision    recall  f1-score   support
+
+           0       0.94      0.66      0.78       170
+           1       1.00      1.00      1.00     12795
+           2       0.93      0.99      0.96       840
+
+    accuracy                           1.00     13805
+   macro avg       0.96      0.88      0.91     13805
+weighted avg       1.00      1.00      0.99     13805
+
+              precision    recall  f1-score   support
+
+           0       0.88      0.69      0.77        42
+           1       1.00      1.00      1.00      3198
+           2       0.94      0.98      0.96       210
+
+    accuracy                           1.00      3450
+   macro avg       0.94      0.89      0.91      3450
+weighted avg       0.99      1.00      0.99      3450
+
+---------------------- Finished report for patient chb23 -----------------------
+
+
