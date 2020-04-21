@@ -1,12 +1,12 @@
 -------------------------- Patient chb01 ------------------------------------
-{'clf__C': 100, 'clf__gamma': 0.001, 'clf__kernel': 'rbf'}
+{'clf__C': 100, 'clf__gamma': 0.001, 'clf__kernel': 'rbf', 'clf__probability': True}
               precision    recall  f1-score   support
 
        False       1.00      1.00      1.00      5757
-        True       0.98      0.92      0.95       173
+        True       0.98      0.94      0.96       173
 
     accuracy                           1.00      5930
-   macro avg       0.99      0.96      0.97      5930
+   macro avg       0.99      0.97      0.98      5930
 weighted avg       1.00      1.00      1.00      5930
 
               precision    recall  f1-score   support
